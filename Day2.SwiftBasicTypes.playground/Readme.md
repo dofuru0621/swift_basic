@@ -15,6 +15,7 @@
 <li>雙精度浮點數 ( Double ) → 佔用記憶體 64bits</li>
 
 ```
+<li>無符號 → 正數或零</li>
     let score = 24.50 // Type is Double.
     let score: Float = 28.50 // Type is Float.
     let count = 24.50 + 28.50 // Type is Double.
